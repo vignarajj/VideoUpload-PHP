@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Web Application - Video Uploader</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="js/myscript.js"  type="text/javascript"></script>
+<link rel="stylesheet" href="css/style.css?version=2" type="text/css"/>
+</head>
+<body>
+<div id="rcorners2">
+<div id="insideborder">
+<h1 class="innerText"> Video Uploader</h1>
+<img src="images/video_icon.png" align="absmiddle"/>
+<form name="myform" onSubmit="return validateForm()" method="post" action="upload_video.php" enctype="multipart/form-data">
+<a>Video Name</a>
+<br>
+<input type= "text" name="v_name" id="v_name">
+<br>
+<br>
+<a>Video Description</a> 
+<br>
+<input type="text" name="v_desc" id="v_desc" >
+<br>
+<br>
+<a>Uploaded By </a><br>
+<input type="text" name="upload_by" id="upload_by">
+<br>
+<br>
+<input type="file" name="file"  id="file" accept="video/*">
+<br>
+<br>
+<a id="error"></a>
+<br>
+<br>
+<input type="submit"  name="submit" value="Upload Video">
+</form>
+</div>
+</div>
+<a href="view.php" target="_self">View Videos</a>
+</body>
+</html>

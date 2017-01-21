@@ -1,0 +1,23 @@
+Site Reference:
+-----------------
+https://www.thesitewizard.com/gettingstarted/dreamweaver1.shtml
+
+http://www.slideshare.net/hailiz/tutorial-php-and-dreamweaver-cs3
+
+http://www.phptpoint.com/upload-video-in-php/
+
+http://stackoverflow.com/questions/18217964/upload-video-files-via-php-and-save-them-in-appropriate-folder-and-have-a-databa/18219669
+
+http://www.tutorialrepublic.com/php-tutorial/php-mysql-insert-query.php
+
+http://www.learningaboutelectronics.com/Articles/How-to-insert-videos-into-a-MySQL-database-using-PHP.php
+
+http://stackoverflow.com/questions/18217964/upload-video-files-via-php-and-save-them-in-appropriate-folder-and-have-a-databa
+
+http://www.php-mysql-tutorial.com/wikis/mysql-tutorials/uploading-files-to-mysql-database.aspx
+
+http://stackoverflow.com/questions/17902483/show-values-from-a-mysql-database-table-inside-a-html-table-in-a-page
+
+https://www.youtube.com/watch?v=MpRRckA2Bo8
+
+http://stackoverflow.com/questions/33273880/how-to-retrieve-video-path-and-display-video-like-youtube-from-mysql-database-in
